@@ -14,7 +14,7 @@ public class Wintel extends JFrame{
         private JMenuBar Menu;
 
 	public Wintel() {
-
+//Bonjour
 	     super ( "Wintel" );
 	     this.creerInterface();
 	     this.attacherReactions();
